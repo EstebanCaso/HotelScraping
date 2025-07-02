@@ -1,0 +1,106 @@
+[
+  {
+    "nombre": "- M U L U K -",
+    "fecha": "Sat, Jul 19 • 8:00 PM",
+    "lugar": "Casa Badóh",
+    "distancia": 2.69,
+    "latitude": 32.5363723,
+    "longitude": -117.024824
+  },
+  {
+    "nombre": "Experiencia Glamping en Baja California",
+    "fecha": "Friday • 7:00 PM + 35 more",
+    "lugar": "Hotel Pueblo Amigo",
+    "distancia": 2.71,
+    "latitude": 32.5371439,
+    "longitude": -117.0262682
+  },
+  {
+    "nombre": "Actividad por Organizacion (HJ y MJ, S.S, Q.E, Primaria)",
+    "fecha": "Today • 7:00 PM",
+    "lugar": "The Church of Jesus Christ of Latter-day Saints",
+    "distancia": 5.03,
+    "latitude": 32.4846917,
+    "longitude": -117.0780612
+  },
+  {
+    "nombre": "Bible & Scripture Study",
+    "fecha": "Sun, Jul 20 • 11:00 AM",
+    "lugar": "The Church of Jesus Christ of Latter-day Saints",
+    "distancia": 5.03,
+    "latitude": 32.4846917,
+    "longitude": -117.0780612
+  },
+  {
+    "nombre": "Bible & Scripture Study Class",
+    "fecha": "Sun, Oct 19 • 11:30 AM",
+    "lugar": "The Church of Jesus Christ of Latter-day Saints",
+    "distancia": 5.03,
+    "latitude": 32.4846917,
+    "longitude": -117.0780612
+  },
+  {
+    "nombre": "Cena de Accion de Gracias Bonita Vista",
+    "fecha": "Sat, Nov 15 • 6:00 PM",
+    "lugar": "The Church of Jesus Christ of Latter-day Saints",
+    "distancia": 5.03,
+    "latitude": 32.4846917,
+    "longitude": -117.0780612
+  },
+  {
+    "nombre": "Cena de Navidad Bonita Vista",
+    "fecha": "Fri, Dec 12 • 6:00 PM",
+    "lugar": "The Church of Jesus Christ of Latter-day Saints",
+    "distancia": 5.03,
+    "latitude": 32.4846917,
+    "longitude": -117.0780612
+  },
+  {
+    "nombre": "Servicio de adoracion",
+    "fecha": "Sunday • 11:40 AM",
+    "lugar": "The Church of Jesus Christ of Latter-day Saints",
+    "distancia": 5.03,
+    "latitude": 32.4846917,
+    "longitude": -117.0780612
+  },
+  {
+    "nombre": "Ven, Adora y Vive un Domingo Diferente...",
+    "fecha": "Sunday • 9:00 AM",
+    "lugar": "The Church of Jesus Christ of Latter-day Saints",
+    "distancia": 5.03,
+    "latitude": 32.4846917,
+    "longitude": -117.0780612
+  },
+  {
+    "nombre": "420 MarcSD's Dispo, Brewery, Winery, Tequila Tour",
+    "fecha": "Today • 12:00 PM + 13 more",
+    "lugar": "San Diego",
+    "distancia": 5.65,
+    "latitude": 32.4661965,
+    "longitude": -117.0559339
+  },
+  {
+    "nombre": "Blueprint for Successful Coaching Programs/ Women Virtual Class/ San Diego",
+    "fecha": "Mon, Jul 21 • 8:30 PM",
+    "lugar": "San Diego",
+    "distancia": 5.65,
+    "latitude": 32.4661965,
+    "longitude": -117.0559339
+  },
+  {
+    "nombre": "Summer Sunset Vol. XXIV - Limpia de Playa al Atardecer",
+    "fecha": "Saturday • 5:00 PM",
+    "lugar": "Playas de Tijuana",
+    "distancia": 7.56,
+    "latitude": 32.531474,
+    "longitude": -117.1161994
+  },
+  {
+    "nombre": "Blueprint for Successful Coaching Programs/ Women Virtual Class/Chula Vista",
+    "fecha": "Mon, Jul 21 • 8:30 PM",
+    "lugar": "Chula Vista",
+    "distancia": 9.7,
+    "latitude": 32.5268151,
+    "longitude": -116.9359445
+  }
+]
