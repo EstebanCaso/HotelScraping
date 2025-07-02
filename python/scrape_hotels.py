@@ -21,7 +21,7 @@ url = (
 # Configurar navegador
 options = Options()
 # Descomenta para ocultar ventana del navegador en producción
-# options.add_argument("--headless")
+#options.add_argument("--headless")
 driver = webdriver.Chrome(options=options)
 
 # Abrir página

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Event Scraper Application
 
 A comprehensive event discovery application that combines Python web scraping with a modern React frontend to find music events near hotel locations in Tijuana.
@@ -171,3 +172,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## Support
 
 For support, please open an issue in the GitHub repository or contact the development team.
+=======
+# HotelScraping
+Hotel and events scraping
+>>>>>>> 911f4eea89ae0c313fcc3f0258e03e6f1716cf10
